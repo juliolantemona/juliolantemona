@@ -7,6 +7,10 @@
 - Telepon                 : 0822-5950-0350
 - Email                   : juliolantemona7@gmail.com
 
+## PENDIDIKAN
+- 2018 - 2021 SMK NEGERI 2 TAHUNA
+- 2015 - 2018 SMP NEGERI 2 TAHUNA
+
 <!--
 **juliolantemona/juliolantemona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
